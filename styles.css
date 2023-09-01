@@ -37,6 +37,8 @@ body {
   color: var(--branco-principal);
   text-decoration: none;
   padding: 2rem 10rem;
+  display: block;
+
 }
 
 
