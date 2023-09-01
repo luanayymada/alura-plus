@@ -38,3 +38,9 @@ body {
   text-decoration: none;
   padding: 2rem 10rem;
 }
+
+
+.assinatura {
+  background-color: none;
+  border: 1px solid white;
+}
