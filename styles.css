@@ -7,11 +7,16 @@
   --botao-azul-efeito: #3c92fa;
 }
 
+html {
+  /* a cada 1rem sera considera 10px */
+  font-size: 62.5%;
+}
+
 body {
   background-color: var(--cor-de-fundo);
   color: var(--branco-principal);
   font-family: var(--fonte-principal);
-  font-size: 16px;
+  font-size: 1.6rem;
   font-weight: 400;
 }
 
