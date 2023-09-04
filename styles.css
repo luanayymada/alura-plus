@@ -44,7 +44,7 @@ body {
 }
 
 
-.assinatura {
+.botao_secundario {
   background-color: transparent;
-  border: 1px solid white;
+  border: 2px solid var(--branco-principal);
 }
