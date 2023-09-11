@@ -3,7 +3,7 @@
   --cinza-secundario: #C0C0C0;
   --botao-azul: #167BF7;
   --cor-de-fundo: #00030C;
-  --fonte-principal: 'Inter';
+  --fonte-principal: 'Inter', sans-serif;
   --botao-azul-efeito: #3c92fa;
 }
 
