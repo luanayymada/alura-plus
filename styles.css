@@ -33,6 +33,11 @@ body {
   /* background-color: red; */
 }
 
+strong{
+  color: red;
+  font-weight: 700;
+}
+
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 0.5rem;
