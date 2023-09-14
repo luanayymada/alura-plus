@@ -65,8 +65,8 @@ strong{
 }
 
 .principal{
-   align-items: center;
-   text-align: center;
+  align-items: center;
+  text-align: center;
 }
 
 .container__botao{
@@ -74,5 +74,9 @@ strong{
 }
 
 .container__caixa {
-   margin: 0 3em;
+  margin: 0 3em;
+}
+
+.container__image{
+ margin: 2em 0 0 0;
 }
