@@ -63,3 +63,12 @@ strong{
   font-size: 12px;
   color: var(--cinza-secundario);
 }
+
+.principal{
+   align-items: center;
+   text-align: center;
+}
+
+.container__caixa {
+   
+}
