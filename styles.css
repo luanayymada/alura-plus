@@ -91,7 +91,7 @@ strong{
 }
 
 .descricao__titulo {
-  font-weight: 700; 
+  font-weight: bold; 
   font-size: 48px;
   color: var(--branco-principal);
   margin: 0.1em;
