@@ -102,3 +102,7 @@ strong{
   color: var(--cinza-secundario);
   line-height: 125%;
 }
+
+.container__descricao {
+  padding: 2em;
+}
