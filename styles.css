@@ -106,3 +106,8 @@ strong{
 .container__descricao {
   padding: 2em;
 }
+
+.botao_terciario {
+  width: 134px;
+  height: 24px;
+}
