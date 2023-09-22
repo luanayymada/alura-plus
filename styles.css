@@ -108,6 +108,7 @@ strong{
 }
 
 .botao_terciario {
+  display: flex;
   width: 134px;
   height: 24px;
   margin: 1em 0;
