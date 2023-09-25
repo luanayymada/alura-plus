@@ -126,3 +126,7 @@ strong{
  font-weight: 700;
  line-height: 38.40px;
 }
+
+.container__linha {
+  grid-column: 1 / -1;
+}
