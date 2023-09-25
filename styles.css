@@ -135,8 +135,7 @@ strong{
 }
 
 .container__dispositivos {
-  display: flex;
-  background-color: red;
+  display: flex;Estilizando conteudo
   justify-content: space-around;
   
 }
