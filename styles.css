@@ -137,5 +137,5 @@ strong{
 .container__dispositivos {
   display: flex;
   justify-content: space-around;
-  
+  margin-top: 4em;
 }
