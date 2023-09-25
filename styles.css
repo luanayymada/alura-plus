@@ -139,3 +139,9 @@ strong{
   justify-content: space-around;
   margin-top: 4em;
 }
+
+.container__links {
+   list-style:  none;
+   display: flex;
+   gap: 1.6em;
+}
