@@ -137,4 +137,5 @@ strong{
 .container__dispositivos {
   display: flex;
   background-color: red;
+  justify-content: center;
 }
