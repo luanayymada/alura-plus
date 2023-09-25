@@ -131,4 +131,5 @@ strong{
   height: 100vh;
   display: grid;
   grid-template-columns: 100%;
+  text-align: center;
 }
