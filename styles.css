@@ -125,5 +125,5 @@ strong{
  font-family: var(--fonte-principal);
  font-weight: 700;
  line-height: 38.40px;
- word-wrap: break-word
+ text-align: center;
 }
