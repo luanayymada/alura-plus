@@ -143,5 +143,5 @@ strong{
 .container__links {
    list-style:  none;
    display: flex;
-   gap: 8em;
+   gap: 0.8em;
 }
