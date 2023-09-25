@@ -133,3 +133,7 @@ strong{
   grid-template-columns: 100%;
   text-align: center;
 }
+
+.container__dispositivos {
+  flex-direction: row;
+}
