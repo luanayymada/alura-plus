@@ -135,5 +135,5 @@ strong{
 }
 
 .container__dispositivos {
-  flex-direction: row;
+  display: flex;
 }
