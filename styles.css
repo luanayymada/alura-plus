@@ -118,3 +118,12 @@ strong{
 .titulo_terciario{
   color: aquamarine;
 }
+
+.descricao_subtitulo {
+  color: var(--branco-principal);
+ font-size: 32px;
+ font-family: var(--fonte-principal);
+ font-weight: 700;
+ line-height: 38.40px;
+ word-wrap: break-word
+}
