@@ -128,5 +128,7 @@ strong{
 }
 
 .container__linha {
+  height: 100vh;
+  display: grid;
   grid-template-columns: 100%;
 }
