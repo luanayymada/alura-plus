@@ -5,6 +5,7 @@
   --cor-de-fundo: #00030C;
   --fonte-principal: 'Inter', sans-serif;
   --botao-azul-efeito: #3c92fa;
+  --rosa-principal: #FF007F;
 }
 
 html {
@@ -157,11 +158,11 @@ strong{
 .container__links > li > a {
   color: white;
   text-decoration: none;
-  transition: 1s;
+  transition: .5s;
 }
 
 .container__links > li > a:hover {
-  color: pink;
+  color: var(--rosa-principal);
 }
 
 .first {
