@@ -128,7 +128,7 @@ strong{
 }
 
 .container__linha {
-  height: 50vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   text-align: center;
