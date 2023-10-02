@@ -128,11 +128,9 @@ strong{
 }
 
 .container__linha {
-  height: 70vh;
   display: flex;
   flex-direction: column;
   text-align: center;
-  align-items: end;
   gap: 4rem; 
 }
 
