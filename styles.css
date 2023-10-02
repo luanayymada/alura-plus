@@ -131,6 +131,7 @@ strong{
   display: flex;
   flex-direction: column;
   text-align: center;
+  margin-top: 14.5rem;
   gap: 4rem; 
 }
 
