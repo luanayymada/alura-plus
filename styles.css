@@ -152,6 +152,10 @@ letter-spacing: 0em;
 text-align: center;
 
 }
+.container__links > li > a {
+  color: white;
+  text-decoration: none;
+}
 
 .first {
   font-family: Inter;
