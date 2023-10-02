@@ -157,6 +157,11 @@ strong{
 .container__links > li > a {
   color: white;
   text-decoration: none;
+  transition: 1s;
+}
+
+.container__links > li > a:hover {
+  color: pink;
 }
 
 .first {
